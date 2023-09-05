@@ -1,0 +1,42 @@
+ h1{font-size:58px; 
+color:#CBE4DE;
+background-color:#2C3333;
+}
+
+#Postres {
+    font-size: 34px;
+    color: rgb(8, 8, 8);
+    background-color: #3E6A8A;
+}
+
+#comidas{
+    font-size: 34px;
+    color: azure;
+    background-color: #610E22;
+}
+#header, #title{
+    font-size:44px;
+    color:#DFD7BF;
+    background-color:#3F2305;
+    text-align:center;
+}
+
+#menu{
+    font-size:34px;
+    color:#E6E5A3;
+    background-color:#557153;
+}
+#Footer {
+    background-color: #A1746F;
+    color: beige;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 80px;
+    margin-top: 200px;
+}
+
+#tabla-bebidas {
+    color:antiquewhite;
+    font-size:34px;
+    background-color:#102C57;
+}
